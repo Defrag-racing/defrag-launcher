@@ -25,7 +25,7 @@ def init_menu(window):
     window.play_button.grid(row=5, column=0, sticky="ew")
 
     window.theme_menu = ctk.CTkOptionMenu(window.menu, values=["Dark", "Light"], text_color="gray100", fg_color="#ac2f10",  dropdown_fg_color="#ac2f10", dropdown_hover_color="#ac2f10", button_color="#ac2f08", button_hover_color="#ac2f08", command=lambda mode: change_theme_event(window, mode))
-    window.theme_menu.grid(row=6, column=0, padx=20, pady=(50, 10), sticky="ew")
+    window.theme_menu.grid(row=6, column=0, padx=20, pady=(50, 10), sticky="s")
 
 def init_frames(window):
     window.home_frame = ctk.CTkFrame(window, corner_radius=0, fg_color="transparent")
