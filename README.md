@@ -6,6 +6,8 @@
 
 <h4 align="center">Launcher app for defrag.racing</h4>
 
-Credits:
-Logo: poonie
-Icons: Dave Gandy, Freepik, Mihimihi
+## Logo and icons
+* poonie
+* Dave Gandy
+* Freepik
+* Mihimihi
