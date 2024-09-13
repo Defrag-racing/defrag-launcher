@@ -2,8 +2,6 @@
 import time
 import subprocess
 import webbrowser
-import psutil
-import shutil
 import customtkinter as ctk
 from CTkMessagebox import CTkMessagebox
 
