@@ -1,0 +1,1 @@
+nuitka --deployment --onefile --windows-console=disable --plugin-enable=pylint-warnings --include-data-dir=modules=modules --windows-icon-from-ico=modules/assets/logo.ico --output-dir=dist defrag-launcher.py
