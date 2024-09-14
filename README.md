@@ -11,3 +11,6 @@
 * Dave Gandy
 * Freepik
 * Mihimihi
+
+# Discord
+[![Discord Banner](https://discordapp.com/api/guilds/751483934034100274/widget.png?style=banner2)](https://discord.com/invite/ZG4dKNVQJu)
